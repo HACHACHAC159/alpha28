@@ -1,4 +1,4 @@
-
+/dts-v1/
 #include <nordic/nrf52840_qiaa.dtsi>
 #include "alpha28-pinctrl.dtsi"
 #include <dt-bindings/led/led.h>
